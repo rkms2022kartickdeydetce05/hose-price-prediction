@@ -5,3 +5,4 @@ pandas
 matplotlib
 wordcloud
 deep-translator
+streamlit_option_menu
