@@ -1,6 +1,7 @@
 streamlit
 scikit-learn
-numpy
-pandas
 joblib
-
+pandas
+matplotlib
+wordcloud
+deep-translator
