@@ -6,3 +6,13 @@ matplotlib
 wordcloud
 deep-translator
 streamlit_option_menu
+rembg
+pillow
+torch
+torchvision
+torchaudio
+diffusers[torch]
+transformers
+accelerate
+safetensors
+onnxruntime
